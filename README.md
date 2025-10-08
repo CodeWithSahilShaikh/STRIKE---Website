@@ -6,8 +6,7 @@ This project showcases multiple courses like **DSA (Data Structures & Algorithms
 ---
 
 ## 🚀 Live Preview
-👉 [View Project on GitHub Pages](#)  
-*(Add your live URL here once deployed)*
+👉 [View Project on GitHub Pages](https://codewithsahilshaikh.github.io/STRIKE--Website/)  
 
 ---
 
